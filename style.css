@@ -1,0 +1,113 @@
+body{
+    text-align: center;
+    background-color: #380606;
+}
+.auxano{
+    background-color: #030318;
+
+}
+.time{
+    color: #ffd700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 70px;
+    font-size: 35px;
+    text-align: center;
+}
+.aux{
+    text-align: left;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    color: #ffffff;
+}
+.play{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+.features{
+    font-size: 30px;
+    padding: 0px;
+    color: #ffffff;
+}
+.join{
+      font-size: 20px;
+    border-radius: 70px;
+    padding: 15px;
+}
+.explore{
+      font-size: 20px;
+    border-radius: 70px;
+    padding: 15px;
+}
+.game{
+    border: 2px;
+    padding: 16px;
+    margin: 20px;
+    background-color: #010129;
+}
+.gift{
+    font-size: 26px;
+    font-family: cursive;
+}
+.daily{
+    font-size: 18px;
+    font-family: cursive;
+}
+.fullbox{
+    background-color: #380606;
+    color: #ffffff;
+    border-color: brown;
+}
+.backto{
+    font-size: 30px;
+    color: white;
+}
+.Live{
+    text-align: center;
+    font-size: 35px;
+}
+.reward{
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #ffd700;
+}
+.cash{
+    font-size: 25px;
+}
+.why{
+    background-color: #7e0202;
+    color: #ffffff;
+}
+.secure{
+    background-color: #050550;
+    border: 2px;
+    padding: 16px;
+    margin: 20px;
+}
+.chos{
+    font-size: 30px;
+}
+.sec{
+    font-size: 26px;
+    font-family: cursive;
+}
+.dat{
+    font-size: 18px;
+    font-family: cursive;
+}
+.user{
+    color: white;
+}
+.future{
+    font-size: 35px;
+}
+.tod{
+    font-size: 20px;
+    border-radius: 70px;
+    padding: 15px;
+}
+.dis{
+    color: white;
+    background-color: black;
+}
