@@ -111,3 +111,28 @@ body{
     color: white;
     background-color: black;
 }
+
+.more-options{
+    width: 24px;
+    height: 32px;
+    background-color: #2f3136;/*dark background*/
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    cursor: pointer;
+}
+
+.more-options span{
+    width: 4px;
+    height: 4px;
+    background: #fff;
+    border-radius: 50%;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
